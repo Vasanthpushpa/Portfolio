@@ -100,5 +100,6 @@ main p{
     font-weight: bold;
 }
 .logo{
-    width: 90px;
+    width: 80px;
+    align-items: center;
 }
